@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/repobuild/static/js/main.bf5e3081.js",
+    "index.html": "/repobuild/index.html",
+    "main.bf5e3081.js.map": "/repobuild/static/js/main.bf5e3081.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bf5e3081.js"
+  ]
+}
